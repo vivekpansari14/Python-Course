@@ -1,6 +1,5 @@
 Here’s a **README.md** file for your Python course GitHub repository:  
 
-```markdown
 # 🚀 Python Fundamentals Course – VKPXR  
 Welcome to the **Python Fundamentals Course** by [VKPXR](https://www.youtube.com/@vkpxr)! This course is designed to take you from a complete beginner to a confident Python programmer.  
 
